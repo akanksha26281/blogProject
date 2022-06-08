@@ -1,4 +1,4 @@
-# techNerds
+# BlogProject
 
 Commands to run this project on pc
   1. conda create --name myEnv python=3.6        ..to create a virtual environment
